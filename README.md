@@ -1,6 +1,9 @@
 # firstrepo
-the first 
+the first
 
-Okay - so let's add some infomation after the initial clone from github.
+Okay - so let's add some information after the initial clone from github.
 
-joe.
+okay added some more information with ATOM.
+
+
+ok - did something go missing.
